@@ -478,3 +478,24 @@
 [submodule "JavaDoc.tmbundle"]
 	path = JavaDoc.tmbundle
 	url = git://github.com/textmate/javadoc.tmbundle.git
+[submodule "RubyAMP.tmbundle"]
+	path = RubyAMP.tmbundle
+	url = git://github.com/timcharper/rubyamp.git
+[submodule "TMCTags.tmbundle"]
+	path = TMCTags.tmbundle
+	url = git://github.com/sbenhaim/tm-ctags-tmbundle.git
+[submodule "WebRat.tmbundle"]
+	path = WebRat.tmbundle
+	url = git://github.com/bmabey/webrat-tmbundle.git
+[submodule "Cucumber.tmbundle"]
+	path = Cucumber.tmbundle
+	url = git://github.com/bmabey/cucumber-tmbundle.git
+[submodule "Capistrano.tmbundle"]
+	path = Capistrano.tmbundle
+	url = git://github.com/vigetlabs/capistrano-tmbundle.git
+[submodule "ACK.tmbundle"]
+	path = ACK.tmbundle
+	url = git://github.com/protocool/ack-tmbundle.git
+[submodule "DRY.tmbundle"]
+	path = DRY.tmbundle
+	url = git://github.com/garnierjm/dont_repeat_yourself.git
