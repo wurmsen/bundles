@@ -369,7 +369,7 @@
 	url = git://github.com/textmate/ruby-on-rails.tmbundle.git
 [submodule "Ruby.tmbundle"]
 	path = Ruby.tmbundle
-	url = git://github.com/textmate/ruby.tmbundle.git
+	url = git@github.com:ikaros/ruby.tmbundle.git
 [submodule "S5.tmbundle"]
 	path = S5.tmbundle
 	url = git://github.com/textmate/s5.tmbundle.git
@@ -499,3 +499,6 @@
 [submodule "DRY.tmbundle"]
 	path = DRY.tmbundle
 	url = git://github.com/garnierjm/dont_repeat_yourself.git
+[submodule "graphviz.tmbundle"]
+	path = graphviz.tmbundle
+	url = git://github.com/textmate/graphviz.tmbundle.git
