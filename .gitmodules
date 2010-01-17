@@ -502,3 +502,6 @@
 [submodule "graphviz.tmbundle"]
 	path = graphviz.tmbundle
 	url = git://github.com/textmate/graphviz.tmbundle.git
+[submodule "CopyAsRTF.tmbundle"]
+	path = CopyAsRTF.tmbundle
+	url = git://github.com/drnic/copy-as-rtf-tmbundle.git
