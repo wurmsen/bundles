@@ -367,9 +367,6 @@
 [submodule "Ruby on Rails.tmbundle"]
 	path = Ruby on Rails.tmbundle
 	url = git://github.com/textmate/ruby-on-rails.tmbundle.git
-[submodule "Ruby.tmbundle"]
-	path = Ruby.tmbundle
-	url = git@github.com:ikaros/ruby.tmbundle.git
 [submodule "S5.tmbundle"]
 	path = S5.tmbundle
 	url = git://github.com/textmate/s5.tmbundle.git
@@ -508,3 +505,9 @@
 [submodule "RSpec.tmbundle"]
 	path = RSpec.tmbundle
 	url = git://github.com/dchelimsky/rspec-tmbundle.git
+[submodule "Ruby.tmbundle"]
+	path = Ruby.tmbundle
+	url = git@github.com:wurmsen/ruby.tmbundle.git
+[submodule "Php.tmbundle"]
+	path = Php.tmbundle
+	url = http://github.com/textmate/php.tmbundle.git
